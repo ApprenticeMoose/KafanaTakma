@@ -1,7 +1,7 @@
 baseURL: "https://apprenticemoose.github.io/KafanaTakma/"
 languageCode: de-de
 title: Kafana Takma
-theme: Papermod
+theme: PaperMod
 
 module:
   imports:
