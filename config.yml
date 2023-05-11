@@ -2,3 +2,7 @@ baseURL:
 languageCode: de-de
 title: Kafana Takma
 theme: github.com/adityatelange/hugo-PaperMod
+
+module:
+  imports:
+    - path: "github.com/adityatelange/hugo-PaperMod"
