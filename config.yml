@@ -1,4 +1,4 @@
-baseURL: 
+baseURL: "https://apprenticemoose.github.io/KafanaTakma/"
 languageCode: de-de
 title: Kafana Takma
 theme: github.com/adityatelange/hugo-PaperMod
