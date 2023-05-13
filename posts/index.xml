@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>KT</title>
-    <link>https://apprenticemoose.github.io/KafanaTakma/</link>
-    <description>Recent content on KT</description>
+    <title>Posts on KT</title>
+    <link>https://apprenticemoose.github.io/KafanaTakma/posts/</link>
+    <description>Recent content in Posts on KT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 12 May 2023 11:31:37 +0300</lastBuildDate><atom:link href="https://apprenticemoose.github.io/KafanaTakma/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 11:31:37 +0300</lastBuildDate><atom:link href="https://apprenticemoose.github.io/KafanaTakma/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Çiğköfte Träume</title>
       <link>https://apprenticemoose.github.io/KafanaTakma/posts/mai23/%C3%A7i%C4%9Fk%C3%B6fte-tr%C3%A4ume/</link>
@@ -167,7 +167,6 @@ Draußen hat heute den ganzen Tag die Sonne geschienen. Der Wetterbericht hat si
       <description>Warum trainiere ich? Ich glaube, das ist eine Frage, die ich mir lange nie explizit gestellt habe.
 In Jugendzeiten bin ich einfach immer zum Fußballtraining gegangen, nicht zu gehen war keine Option. In der A-Jugend kann ich mich erinnern, hinterfragt zu haben, warum ich mir den Amateurfußball überhaupt antue. Meckernde Zuschauer und zügellose Mitspieler waren wohl der Hauptgrund. Heute kann ich nicht mehr nachvollziehen, wieso mich die negativen Nebenwirkungen so sehr getroffen haben, dass ich die Medizin, die Fußball immer für mich war, absetzen wollte.</description>
     </item>
-    
     
   </channel>
 </rss>
