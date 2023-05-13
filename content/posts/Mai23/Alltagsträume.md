@@ -1,0 +1,20 @@
+---
+title: "Alltagsträume"
+date: 2023-05-01T00:04:46+03:00
+draft: false
+---
+
+Ein Freund hat mir mal bewundernd von einer gemeinsamen Freundin erzählt. Wie sie es schafft, alles Gute in ihrem Alltag zu vereinen. Sie geht morgens zum Sport, arbeitet anschließend in einem fordernden und förderndem Job und trifft sich abends mit Freunden. Bewegung, produktive Zeit und soziale Kontakte, was will man mehr. So wurde es mir geschildert und ich war angetan. Das klang wirklich nach der perfekten Dreifaltigkeit. Sie plant ihre Tage wohl auch immer sehr gut und er fügt an, dass es daran bei uns scheitert. Hat er wahrscheinlich nicht unrecht. 
+
+Nach meiner Ankunft in Istanbul standen mir die Tage offen. Keine Verpflichtungen im Rahmen des Auslandssemesters und der Unterrichtsstart um einen Monat nach hinten verlegt. Mit mir im Boot etliche andere Erasmus-Studierende, die
+sich der gleichen Herausforderung stellen müssen. Überwältigende Freiheit und die Bürde die sie mit sich bringt. 
+Zu beobachten war, dass sich viele in neu gefunden Freundesgruppen stürzen. Einige connecten direkt mit Landsleuten, eine hand-voll kommunikativer Zeitgenossen knüpft innerhalb weniger Tage Kontakte mit der halben Stadt und wiederum andere scheuen sich vor einem Kopfsprung in das soziale Leben. Ich gehöre zu letzteren und empfand anmaßender Weise das Verhalten der anderen oftmals als eine Flucht vor der Verantwortung sich schweren Fragen zu stellen.  
+Aber hey, wenn man selbst verloren und überfordert ist, wird man ab und an mal anmaßend.  
+Einer meiner Mitbewohner hier betonte mehrmals, wie verrückt diese Anfangszeit sei. Dadurch dass alle neu sind und sich jeder nach sozialen Kontakten sehnt, lernt man jeden Abend neue Menschen kennen. Er spricht vom Aufregenden und Ungewissem und dass es ein erfrischendes Kontrastprogramm vom eingespieltem Alltag sei. Ich sehe seinen Punkt und gleichzeitig sehe ich Menschen, die sich in diesem Rausch eigentlich nach Sicherheit sehnen. Ich fühle das. Das verlangen nach Rausch, ebenso wie das Bedürfnis nach Sicherheit. Sicherheit gibts jedoch nicht, wie ich gerade lernen musst. Wurde soeben von einem Vogel angekackt. Scheiß drauf. Rausch. Rausch ist das Versprechen dieser Auslandserfahrung. Eines das häufig erfüllt wird, aber bei Nichterfüllung zu Entzugserscheinungen führen kann. Gott sei Dank und zum Glück gibt es dafür bereits das Wort Fomo. Fear of missing out ist wunderbar im alltäglichen Sprachgebrauch angekommen. Verpasse ich etwas, wenn ich nicht gehe? 
+Aber, wenn es sich dann nicht gelohnt hat, verpasse ich dann Erholung die ich dafür haben könnte? Fomofomo also. 
+Zurück zur Fomo, sie und all ihre Variationen sind ständige Begleiter, wenn man sich über die vergangene Woche mit Gleichgesinnten austauscht und sich leichte Fragen stellt, wie:  
+Ist mein Rausch nicht so gut wie ihrer? Oder, hatte ich etwa nicht mal einen Rausch? Was mach ich hier, ich bin im Auslandssemester und vergeude eine einmalige Zeit. Meine einmalige Zeit. 
+Nun ja, dazu muss man wissen, dass so eine Zeit einer nie stillstehende Wippe gleicht. Es gibt keine Balance. Balance ist nicht das Ziel. Und so allgemein klingt das alles so gar nicht nach Alltag. Ist ja auch Rausch, da ist Alltag egal. 
+Aber nach dem Ausnüchtern kommt die Leere und da sind sie wieder, die schweren Fragen die man sich stellen kann. Doch bald endet dieser wilde Wippenritt und alle Privilegien werden einem entrissen. Man landet zurück im Alltag, da wo alles irgendwie strukturiert ist, wo sich Pflichten und Gewohntes die Klinke in die Hand geben. Aber das Gute ist, wenn es soweit ist, dann bin ich vorbereitet. Ich meine, nach all diesen schweren Fragen. 
+
+Ich hatte die Möglichkeit mit besagter Freundin, deren Gras grüner ist, darüber zu sprechen und sie zu fragen, wie sie das anstellt. Ich hab vergessen was sie gesagt hat, aber macht nichts, denn nach all diesen schweren Fragen fällt mir das leicht.  
