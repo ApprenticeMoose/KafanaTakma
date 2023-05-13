@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on KT</title>
-    <link>https://apprenticemoose.github.io/KafanaTakma/categories/</link>
+    <link>https://kafanatakma.de/categories/</link>
     <description>Recent content in Categories on KT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://apprenticemoose.github.io/KafanaTakma/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language><atom:link href="https://kafanatakma.de/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
