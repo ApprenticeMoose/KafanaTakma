@@ -17,8 +17,8 @@ Spaß bei Seite, mir fehlt es an Struktur in meinem Training und das hindert mic
 Weiter mag man sich die Fragen stellen, muss dass den sein, ist doch alles gut, was zählt ist die Freude.  
 Bin Freude taumelnd unterwegs von Zweifel zu Zweifel, von Stein zu Stein.  
 Rolle den Stein unermüdlich den Berg hinauf, laut Camus müsste ich glücklich sein.  
-Bin mir mit meinem Glück aber nicht sicher, aber dazu braucht es ja auch nicht viel.  
-Was ich brauch ist ein Hut der mir passt, der fresh ist und trotzdem vor der Sonne schützt. 
-So ein bisschen Schutz vor mir selbst würde nicht schaden, aber weiß auch, dass es das ist, warum der Trip so lohnenswert ist. 
+Bin mir mit meinem Glück aber nicht sicher, wobei sie sagen, dass es dazu nicht viel braucht.  
+Was ich brauch ist ein Hut der mir passt, der fresh ist und trotzdem vor der Sonne schützt.  
+So ein bisschen Schutz vor mir selbst würde nebenbei nicht schaden, aber weiß auch, dass es das ist, was den Trip so lohnenswert macht. 
 
 Also lass ich's weiter auf mich zukommen und sag dann, ich hätte es schon kommen sehen. 
