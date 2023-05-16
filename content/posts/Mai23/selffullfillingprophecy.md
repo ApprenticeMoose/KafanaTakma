@@ -1,5 +1,5 @@
 ---
-title: "Self-fullfilling prophecy"
+title: "Self-fulfilling prophecy"
 date: 2023-05-16T22:50:34+03:00
 draft: false
 ---
