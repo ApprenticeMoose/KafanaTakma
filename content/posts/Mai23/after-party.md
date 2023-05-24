@@ -19,7 +19,7 @@ Vielleicht sollte ich es ein wenig aussitzen, denn manchmal sind die Wege mehr w
 
 Aber nach einer Weile muss ich los,  
 egal ob Treppe oder Weg,  
-meinetwegen auch mit dem Floß,
+meinetwegen auch mit dem Floß,  
 ich weiß sowieso wo die Reise hingeht.
 
 Was auf mich warten wird, ist große Antizipation und langer Struggle,  
