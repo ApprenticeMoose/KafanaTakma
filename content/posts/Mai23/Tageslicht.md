@@ -6,7 +6,7 @@ draft: false
 
 Bei Tageslicht sieht alles anders aus.  
 Rede zu viel, rede zu lang,  
-will eigentlich fühlen, weiß das ich's nicht kann.  
+will eigentlich fühlen, weiß dass ich's nicht kann.  
 Würde mich gerne lossprechen,  
 in all den langen Nächten.  
 Doch das Schild komplett abzulegen,  
