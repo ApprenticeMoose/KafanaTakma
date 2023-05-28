@@ -5,6 +5,7 @@ draft: false
 ---
 
 Bei Tageslicht sieht alles anders aus.  
+
 Rede zu viel, rede zu lang,  
 will eigentlich fühlen, weiß dass ich's nicht kann.  
 Würde mich gerne lossprechen,  
@@ -15,6 +16,7 @@ Wahrscheinlich sollte ich das auch nicht,
 bevor das was ich hab noch zerbricht.  
 Oder es sich zumindest ändert,  
 plötzlich am Steuer, aber ohne Lenkrad.  
+
 Doch da ist auch dieses Ideal,  
 das mir sagt es ist eigentlich egal.  
 Egal was ich sag, egal was ich teil,  
@@ -25,6 +27,7 @@ Mit Klarheit und einem guten Rat parat,
 frei von dem, was ich nicht an mir mag.  
 Mit Ruhe und Besonnenheit,  
 begegnet mir Dankbarkeit so weit das Auge reicht.  
+
 Doch die zwei, drei Gedanken,  
 sie decken nicht mal meine Flanken.  
 Die Zweifel entgegnen mir frontal,  
@@ -39,12 +42,14 @@ Gedankenmuster, deren Apfel nicht weit vom Stamm fiel.
 Gedankenmuster einer anderen Epoche, so wie ein Krokodil.  
 Da stehen ich nun, allein auf weiter Flur,  
 chronisch verkopft, bräuchte mal ne Kur.  
+
 Hab meine Crew verloren, doch hätte gern alle an Bord,  
 Kann mich nicht mehr hören, glaube mir kein einziges Wort.  
 Denn Worten müssen Taten folgen,  
 will mich meiner Ohnmacht nicht mehr beugen.  
 Zu viele Fragen, zu viele Themen,  
 zu wenig Antworten, kann nichts mehr ernst nehmen.  
+
 Doch vielleicht sollte ich das auch nicht,  
 weil das schon mehr der Realität entspricht.  
 Denn wenn es hell wird, höre ich auf Geister zu sehen,  
