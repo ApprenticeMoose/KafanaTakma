@@ -6,8 +6,9 @@ draft: false
 
 Bin ein letztes Mal an der Uni gewesen und zufällig der Turn-Dozentin über den Weg gelaufen, die mich zu Beginn des Semesters sehr herzlich willkommen geheißen hat. Es war schön sich persönlich verabschieden zu können und doch bleibt ein Beigeschmack.  
 Auf ihre Frage, ob sich mein Türkisch verbessert hat und ich besser mit meiner Familie sprechen kann, antworte ich, dass ich definitiv dazugelernt habe und ich mich bereits viel besser mit meinen Großeltern verständigen kann, was alle sehr freut.  
-Darauf erwidert sie, dass ihr in Deutschland lebender Neffe aber immer noch besser türkisch spricht als ich.
-Äh okay. Wirklich? Also...warum? Wer hat gefragt? Kuck mich um. Dachte ich mir. Niemand.  
+Darauf erwidert sie, dass ihr in Deutschland lebender Neffe aber immer noch besser türkisch spricht als ich.  
+Äh okay. Wirklich? Also...warum?  
+Wer hat gefragt? Kuck mich um. Dachte ich mir. Niemand.  
 Vor allem hatten wir zu Beginn des Semesters noch darüber geredet, dass ich mich mit der Sprache schwer tue und ich mich um Besserung bemühe.  
 Naja, geantwortet habe ich irgendwas in die Richtung, "das ist ja nicht schwer bei meinem Türkisch" und das Gespräch weitergeführt.  
 Anschließend war ich mit einem Freund Pickleball spielen. Es ist bestimmt sechs Wochen her, dass ich das letzte Mal gespielt habe und er war in der Zwischenzeit fleißig, was er in einem souveränen ersten Satzsieg zeigt.  
