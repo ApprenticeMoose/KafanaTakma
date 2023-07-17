@@ -25,5 +25,6 @@ Der Hang zur Selbstdarstellung bei vielen Besuchenden ist unverkennbar und auf D
 Auf den zweiten Gedanken transportieren die ausgestellten Werke neben Botschaften vor allem Emotionen.  
 Emotionen denen Betrachtende nicht entgehen können. Sie können anschließend frei wählen, wie sehr und in welcher Form sie sich auf das Werk einlassen möchten, entziehen können sie sich ihm jedoch nicht. 
 
-Als abschließender Gedanke bleibt, dass das Museum mit seiner Ausstellung Bewegung in Menschen erzeugt.   Das reicht.  
+Als abschließender Gedanke bleibt, dass das Museum mit seiner Ausstellung Bewegung in Menschen erzeugt.     
+Das reicht.  
 Der Rest ist Bonus.
